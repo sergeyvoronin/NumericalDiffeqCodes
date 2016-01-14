@@ -1,0 +1,6 @@
+These two matlab scripts solve the decay ode 
+using the euler method and the non-std finite difference 
+modification of the euler scheme. 
+
+du/dt = -\lambda u 
+u(t_0) = u_0

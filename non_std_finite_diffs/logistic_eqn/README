@@ -1,0 +1,7 @@
+These files solve the logistic ODE using 
+the runge kutta and non-std finitie difference methods.
+Run the script logistic_driver.m from within Maltab to produce the plots.
+
+% The logistic equation IVP is du/dt = r*u(1-u);  u(0) = u0;
+% with solution u(t) = 1/( 1 + (1/u0 - 1)*exp(-r*t)  );
+

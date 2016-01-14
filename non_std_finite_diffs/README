@@ -1,0 +1,5 @@
+Codes illustrating the use of non-standard finite 
+difference techniques for ordinary 
+(exponential decay eqn, logistic ode eqn) and partial (wave eqn) 
+differential equations. The ODE codes are in Matlab and the 
+PDE codes are written in C++.  

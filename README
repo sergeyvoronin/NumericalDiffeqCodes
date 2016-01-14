@@ -1,0 +1,6 @@
+Codes illustrating different techniques for numerically 
+solving ODE and PDE problems. This collection aims 
+to illustrate more interesting techniques, such as 
+non-standard finite differences and the multigrid algorithm.
+
+Sergey Voronin

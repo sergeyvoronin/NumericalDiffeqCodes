@@ -1,0 +1,13 @@
+These programs solve test problems I and II by using the multigrid algorithm 
+with a V-cycle.
+
+1) mg_solver.cpp -> implements 2-D multigrid
+
+compile with: g++ mg_solver.cpp -o mgs -Os
+run with: ./mgs
+Output data will be in data/ subdirectory.
+Next, the matlab script make_plots.m can be used to make plots.
+
+There is a parameter problem_num within both programs which is used to 
+specify which test_problem to solve (and plot diagnostics for).
+
